@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7F7F0B64-F68E-4476-AFF2-7078BDD6D160}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Zakate_project</RootNamespace>
+    <AssemblyName>Zakate_project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\..\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar, Version=2.8.0.16, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.8.0.16\lib\net40\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=5.15.4.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.15.4\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.3.2, Culture=neutral, PublicKeyToken=4015e4865bda28a4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes">
+      <HintPath>FakesAssemblies\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.1.3, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.8.3\lib\net461\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.4.3.0\lib\net462\System.Runtime.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.InteropServices.4.3.0\lib\net463\System.Runtime.InteropServices.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WinFormAnimation, Version=1.6.0.4, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.6.0.4\lib\net40\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Calculator_Zakah\Calculator_Crops.cs" />
+    <Compile Include="Classes\Calculator_Zakah\Calculator_livestock.cs" />
+    <Compile Include="Classes\Calculator_Zakah\Calculator_Money.cs" />
+    <Compile Include="Classes\Calculator_Zakah\Calculator_Silver.cs" />
+    <Compile Include="Classes\Calculator_Zakah\Calculator_Gold.cs" />
+    <Compile Include="Classes\Cls_AlMozke.cs" />
+    <Compile Include="Classes\Cls_Process.cs" />
+    <Compile Include="Classes\Clas_Add_Type.cs" />
+    <Compile Include="Classes\Cls_Thime_Color.cs" />
+    <Compile Include="Classes\conction\Cls_conctin.cs" />
+    <Compile Include="DB\Concition_Reports.cs" />
+    <Compile Include="DB\DbConnection.cs" />
+    <Compile Include="FORMS_GROUP\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Dashbord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Dashbord.Designer.cs">
+      <DependentUpon>Form_Dashbord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Calculator_Host.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Calculator_Host.Designer.cs">
+      <DependentUpon>Form_Calculator_Host.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Data.Designer.cs">
+      <DependentUpon>Form_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_math_moz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_math_moz.Designer.cs">
+      <DependentUpon>Form_math_moz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Reception.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Reception.Designer.cs">
+      <DependentUpon>Form_Reception.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Setting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Setting.Designer.cs">
+      <DependentUpon>Form_Setting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Users.Designer.cs">
+      <DependentUpon>Form_Users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Home.Designer.cs">
+      <DependentUpon>Form_Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Login.Designer.cs">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Type.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Type.Designer.cs">
+      <DependentUpon>Form_Type.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_ALMozke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_ALMozke.Designer.cs">
+      <DependentUpon>Form_ALMozke.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Item.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS_GROUP\Form_Item.Designer.cs">
+      <DependentUpon>Form_Item.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Program.cs" />
+    <Compile Include="login\Coonction_Login.cs" />
+    <Compile Include="login\Data_Setting.cs" />
+    <Compile Include="login\Data_Zaka.cs" />
+    <Compile Include="login\Users_Model.cs" />
+    <Compile Include="login\User_Check.cs" />
+    <Compile Include="login\User_Name.cs" />
+    <Compile Include="models\Dashboard.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports\dashBord_Reports.cs" />
+    <EmbeddedResource Include="FORMS_GROUP\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS_GROUP\Form_Dashbord.resx">
+      <DependentUpon>Form_Dashbord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS_GROUP\Form_Calculator_Host.resx">
+      <DependentUpon>Form_Calculator_Host.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS_GROUP\Form_Data.resx">
+      <DependentUpon>Form_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS_GROUP\Form_Home.resx">
+      <DependentUpon>Form_Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS_GROUP\Form_Login.resx">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS_GROUP\Form_math_moz.resx">
+      <DependentUpon>Form_math_moz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS_GROUP\Form_Reception.resx">
+      <DependentUpon>Form_Reception.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS_GROUP\Form_Setting.resx">
+      <DependentUpon>Form_Setting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS_GROUP\Form_Type.resx">
+      <DependentUpon>Form_Type.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS_GROUP\Form_ALMozke.resx">
+      <DependentUpon>Form_ALMozke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS_GROUP\Form_Item.resx">
+      <DependentUpon>Form_Item.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS_GROUP\Form_Users.resx">
+      <DependentUpon>Form_Users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Fakes Include="Fakes\Microsoft.VisualBasic.PowerPacks.Vs.fakes" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-exclamation-mark-computer-icons-vector-graphics-pu-ΤΟ-ΣΠΙΤΙ-ΤΗΣ-ΑΓΩΓΗΣ-ΥΓΕΙΑΣ-5b693c855b7205.5942121815336234293746.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\المستخدمين %282%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

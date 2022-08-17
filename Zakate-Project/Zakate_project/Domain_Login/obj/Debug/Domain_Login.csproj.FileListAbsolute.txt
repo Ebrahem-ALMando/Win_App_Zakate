@@ -1,0 +1,11 @@
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Domain_Login\bin\Debug\Domain_Login.exe.config
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Domain_Login\bin\Debug\Domain_Login.exe
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Domain_Login\bin\Debug\Domain_Login.pdb
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Domain_Login\bin\Debug\Data_Access_Login.exe
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Domain_Login\bin\Debug\Data_Access_Login.pdb
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Domain_Login\bin\Debug\Data_Access_Login.exe.config
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Domain_Login\obj\Debug\Domain_Login.csprojAssemblyReference.cache
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Domain_Login\obj\Debug\Domain_Login.csproj.CoreCompileInputs.cache
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Domain_Login\obj\Debug\Domain_Login.csproj.CopyComplete
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Domain_Login\obj\Debug\Domain_Login.exe
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Domain_Login\obj\Debug\Domain_Login.pdb

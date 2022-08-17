@@ -1,0 +1,348 @@
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Zakate_project.exe.config
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Zakate_project.exe
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Zakate_project.pdb
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csprojAssemblyReference.cache
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.Properties.Resources.resources
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csproj.GenerateResource.cache
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csproj.CoreCompileInputs.cache
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.exe
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.pdb
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\FontAwesome.Sharp.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csproj.CopyComplete
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Guna.UI2.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\System.Data.SqlClient.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\System.Data.SqlClient.xml
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Item.resources
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_ALMozke.resources
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Login.resources
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csprojFakesResolveAssemblyReference.cache
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\fakes.args
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Accessibility.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\FontAwesome.Sharp.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Guna.UI2.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.fakesconfig
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.pdb
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.xml
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.xml
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\System.Data.SqlClient.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\System.Data.SqlClient.xml
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.ah
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.ch
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.cs
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.csproj
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.fakes
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.fakesconfig
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.snk
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\f.csproj.CopyComplete
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\f.csproj.CoreCompileInputs.cache
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\f.csproj.FileListAbsolute.txt
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\f.csprojAssemblyReference.cache
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.pdb
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.fakesconfig
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.xml
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Zakate_project.exe.config
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Zakate_project.exe
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Zakate_project.pdb
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.fakesconfig
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\FontAwesome.Sharp.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Guna.UI2.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\System.Data.SqlClient.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.xml
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\System.Data.SqlClient.xml
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csprojFakesResolveAssemblyReference.cache
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\fakes.args
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Accessibility.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\FontAwesome.Sharp.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Guna.UI2.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.fakesconfig
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.pdb
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.xml
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.xml
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\System.Data.SqlClient.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\System.Data.SqlClient.xml
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.ah
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.ch
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.cs
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.csproj
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.fakes
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.fakesconfig
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.snk
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\f.csproj.CopyComplete
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\f.csproj.CoreCompileInputs.cache
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\f.csproj.FileListAbsolute.txt
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\f.csprojAssemblyReference.cache
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.dll
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.pdb
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csprojAssemblyReference.cache
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.Form_Home.resources
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Login.resources
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Tool.resources
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.Form_Type.resources
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_ALMozke.resources
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Item.resources
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.Properties.Resources.resources
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csproj.GenerateResource.cache
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csproj.CoreCompileInputs.cache
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csproj.CopyComplete
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.exe
+E:\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.pdb
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Bunifu_UI_v1.52.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Home.resources
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Type.resources
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\Zakate_project.exe.config
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\Zakate_project.exe
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\Zakate_project.pdb
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.fakesconfig
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\FontAwesome.Sharp.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\Guna.UI2.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\System.Data.SqlClient.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.xml
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\System.Data.SqlClient.xml
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csprojFakesResolveAssemblyReference.cache
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\fakes.args
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Accessibility.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\FontAwesome.Sharp.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Guna.UI2.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.fakesconfig
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.pdb
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.xml
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.xml
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\System.Data.SqlClient.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\System.Data.SqlClient.xml
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.ah
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.ch
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.cs
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.csproj
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.fakes
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.fakesconfig
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.snk
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\f.csproj.CopyComplete
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\f.csproj.CoreCompileInputs.cache
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\f.csproj.FileListAbsolute.txt
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\f.csprojAssemblyReference.cache
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.pdb
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csprojAssemblyReference.cache
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Dashbord.resources
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Home.resources
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Login.resources
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Type.resources
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_ALMozke.resources
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Item.resources
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Zakate_project.Properties.Resources.resources
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csproj.GenerateResource.cache
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csproj.CoreCompileInputs.cache
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csproj.CopyComplete
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Zakate_project.exe
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Zakate_project\obj\Debug\Zakate_project.pdb
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Users.resources
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Reception.resources
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\CircularProgressBar.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\WinFormAnimation.dll
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\CircularProgressBar.xml
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Zakate_project.exe.config
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Zakate_project.exe
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Zakate_project.pdb
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.fakesconfig
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\CircularProgressBar.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\FontAwesome.Sharp.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Guna.UI2.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\System.Data.SqlClient.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\WinFormAnimation.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\CircularProgressBar.xml
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.xml
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\System.Data.SqlClient.xml
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csprojFakesResolveAssemblyReference.cache
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\fakes.args
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Accessibility.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\FontAwesome.Sharp.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Guna.UI2.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.fakesconfig
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.pdb
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.xml
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.xml
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\System.Data.SqlClient.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\System.Data.SqlClient.xml
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\b\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.ah
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.ch
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.cs
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.csproj
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.fakes
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.fakesconfig
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\f.snk
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\f.csproj.CopyComplete
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\f.csproj.CoreCompileInputs.cache
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\f.csproj.FileListAbsolute.txt
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\f.csprojAssemblyReference.cache
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.dll
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Fakes\mvbppv\o\Microsoft.VisualBasic.PowerPacks.Vs.10.0.0.0.Fakes.pdb
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csprojAssemblyReference.cache
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Dashbord.resources
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Home.resources
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Login.resources
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Reception.resources
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Type.resources
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_ALMozke.resources
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Item.resources
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Users.resources
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.Properties.Resources.resources
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csproj.GenerateResource.cache
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csproj.CoreCompileInputs.cache
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.csproj.CopyComplete
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.exe
+E:\نسخ مشروع التخرج\8عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.pdb
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Calculator_Host.resources
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_math_moz.resources
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Setting.resources
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Dashbord.resources
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form_Data.resources
+D:\EBRAHEM\المعهد _دراستي\عمل مشروع التخرج\Zakate_project\Zakate_project\obj\Debug\Zakate_project.FORMS_GROUP.Form2.resources

@@ -1,0 +1,10 @@
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Data_Access_Login\bin\Debug\Data_Access_Login.exe.config
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Data_Access_Login\bin\Debug\Data_Access_Login.exe
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Data_Access_Login\bin\Debug\Data_Access_Login.pdb
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Data_Access_Login\bin\Debug\System.Data.SqlClient.dll
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Data_Access_Login\bin\Debug\System.Data.SqlClient.xml
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Data_Access_Login\obj\Debug\Data_Access_Login.csprojAssemblyReference.cache
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Data_Access_Login\obj\Debug\Data_Access_Login.csproj.CoreCompileInputs.cache
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Data_Access_Login\obj\Debug\Data_Access_Login.csproj.CopyComplete
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Data_Access_Login\obj\Debug\Data_Access_Login.exe
+E:\نسخ مشروع التخرج\عمل مشروع التخرج معدلة\Zakate_project\Data_Access_Login\obj\Debug\Data_Access_Login.pdb
