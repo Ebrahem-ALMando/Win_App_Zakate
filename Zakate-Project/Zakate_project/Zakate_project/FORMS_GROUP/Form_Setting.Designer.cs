@@ -47,6 +47,7 @@ namespace Zakate_project.FORMS_GROUP
             this.TX_Username = new Guna.UI2.WinForms.Guna2TextBox();
             this.TX_name = new Guna.UI2.WinForms.Guna2TextBox();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
             this.Virs = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -55,7 +56,6 @@ namespace Zakate_project.FORMS_GROUP
             this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2ToggleSwitch1 = new Guna.UI2.WinForms.Guna2ToggleSwitch();
             this.lbl = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             this.panel2.SuspendLayout();
@@ -303,6 +303,24 @@ namespace Zakate_project.FORMS_GROUP
             this.panel2.Size = new System.Drawing.Size(220, 538);
             this.panel2.TabIndex = 28;
             // 
+            // button1
+            // 
+            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.button1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("AGA Arabesque", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.SystemColors.Window;
+            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
+            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button1.Location = new System.Drawing.Point(0, 100);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(220, 65);
+            this.button1.TabIndex = 40;
+            this.button1.Text = "الرئيسية";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Virs
             // 
             this.Virs.AutoSize = true;
@@ -416,24 +434,6 @@ namespace Zakate_project.FORMS_GROUP
             this.lbl.Name = "lbl";
             this.lbl.Size = new System.Drawing.Size(0, 18);
             this.lbl.TabIndex = 39;
-            // 
-            // button1
-            // 
-            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.button1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("AGA Arabesque", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.SystemColors.Window;
-            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
-            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button1.Location = new System.Drawing.Point(0, 100);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(220, 65);
-            this.button1.TabIndex = 40;
-            this.button1.Text = "الرئيسية";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form_Setting
             // 

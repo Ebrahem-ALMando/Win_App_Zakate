@@ -17,7 +17,7 @@ namespace Zakate_project
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FORMS_GROUP.Form_Login()); ; 
+            Application.Run(new FORMS_GROUP.Form_Login()); 
         }
     }
 }

@@ -6,6 +6,7 @@ using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data;
 
 namespace Zakate_project.models
 {
@@ -22,15 +23,26 @@ namespace Zakate_project.models
         private DateTime endDate;
         private int numberDays;
 
-        public int NumCustomers { get; private set; }
-        public int NumSuppliers { get; private set; }
-        public int NumProducts { get; private set; }
-        public List<KeyValuePair<string, int>> TopProductsList { get; private set; }
-        public List<KeyValuePair<string, int>> UnderstockList { get; private set; }
+        /// <summary>
+       
+        public int Num_mozke_in_date { get; private set; }
+        public int Num_Process_in_date { get; private set; }
+
+        public int Num_Process { get; private set; }
+
+
+        public int Num_Item { get; private set; }
+        public int Num_Type { get; private set; }
+        /// </summary>
+        public int Num_mozke { get; private set; }
+        public int Num_Projects { get; private set; }//Not values Time now
+        public decimal sum_Monye { get; private set; }
+        /// The Query that returns more than value
+        public List<KeyValuePair<string, decimal>> TopitemList { get; private set; }
+        public List<KeyValuePair<string, decimal>> LowtypeList { get; private set; }
         public List<RevenueByDate> GrossRevenueList { get; private set; }
-        public int NumOrders { get; set; }
-        public decimal TotalRevenue { get; set; }
-        public decimal TotalProfit { get; set; }
+        public decimal Sum_Money { get; set; }
+     
 
         //Constructor
         public Dashboard()
@@ -41,82 +53,101 @@ namespace Zakate_project.models
         //Private methods
         private void GetNumberItems()
         {
-            //using (var connection = GetConnection())
-            //{
-            //    connection.Open();
-            //    using (var command = new SqlCommand())
-            //    {
-            //        command.Connection = connection;
-            //        //Get Total Number of Customers
-            //        command.CommandText = "select count(id) from Customer";
-            //        NumCustomers = (int)command.ExecuteScalar();
+            using (var connection = GetConnection())
+            {
+                connection.Open();
+                using (var command = new SqlCommand())
+                {
+                    ///
+                    //--We Used ExecuteScalar-- ==>Because it returns the first row of the first column of the query
+                    command.Connection = connection;
+                    //Get Total Number of Donors
+                    command.CommandText = "select COUNT(Don_Id) from Donors_Tbl";
+                    Num_mozke = (int)command.ExecuteScalar();
 
-            //        //Get Total Number of Suppliers
-            //        command.CommandText = "select count(id) from Supplier";
-            //        NumSuppliers = (int)command.ExecuteScalar();
+                    //Get Total Number of process
+                    command.CommandText = "select count(pros_id) from proceser_Tbl";
+                    Num_Process = (int)command.ExecuteScalar();
 
-            //        //Get Total Number of Products
-            //        command.CommandText = "select count(id) from Product";
-            //        NumProducts = (int)command.ExecuteScalar();
+                    //Get Total Sum of Monye
+                    command.CommandText = "select sum(quntity) from proceser_Tbl";
+                    sum_Monye = (decimal)command.ExecuteScalar();
 
-            //        //Get Total Number of Orders
-            //        command.CommandText = @"select count(id) from [Order]" +
-            //                                "where OrderDate between  @fromDate and @toDate";
-            //        command.Parameters.Add("@fromDate", System.Data.SqlDbType.DateTime).Value = startDate;
-            //        command.Parameters.Add("@toDate", System.Data.SqlDbType.DateTime).Value = endDate;
-            //        NumOrders = (int)command.ExecuteScalar();
-            //    }
-            //}
+                    //Get Total Number of Item
+                    command.CommandText = "select COUNT(Item_id) from Item_Tbl";
+                    Num_Item = (int)command.ExecuteScalar();
+                    // Get Total Number of Type
+                    command.CommandText = "select COUNT(Type_id) from Type_zakah_Tbl";
+                    Num_Type = (int)command.ExecuteScalar();
+
+                    //Num_Process_in_date
+                    command.CommandText = @"select COUNT(pros_id) from proceser_Tbl
+                                            where Date_pros between @data_Start and @data_End";
+
+                    command.Parameters.Add("@data_Start", SqlDbType.DateTime).Value = startDate;
+                    command.Parameters.Add("@data_End", SqlDbType.DateTime).Value = endDate;
+                    Num_Process_in_date = (int)command.ExecuteScalar();
+
+                    //Num_mozke in date_custom
+                    command.CommandText = @"select count( Donors_Tbl.Don_Id) from Donors_Tbl
+                                          where Don_Id in (select proceser_Tbl.Don_id_FK from proceser_Tbl
+                                          where proceser_Tbl.Date_pros between @start_date and @end_date)";
+                    command.Parameters.Add("@start_date", SqlDbType.DateTime).Value = startDate;
+                    command.Parameters.Add("@end_date", SqlDbType.DateTime).Value = endDate;
+                    Num_mozke_in_date = (int)command.ExecuteScalar();
+                }
+            }
         }
         private void GetProductAnalisys()
         {
-            //TopProductsList = new List<KeyValuePair<string, int>>();
-            //UnderstockList = new List<KeyValuePair<string, int>>();
-            //using (var connection = GetConnection())
-            //{
-            //    connection.Open();
-            //    using (var command = new SqlCommand())
-            //    {
-            //        SqlDataReader reader;
-            //        command.Connection = connection;
-            //        //Get Top 5 products
-            //        command.CommandText = @"select top 5 P.ProductName, sum(OrderItem.Quantity) as Q
-            //                                from OrderItem
-            //                                inner join Product P on P.Id = OrderItem.ProductId
-            //                                inner
-            //                                join [Order] O on O.Id = OrderItem.OrderId
-            //                                where OrderDate between @fromDate and @toDate
-            //                                group by P.ProductName
-            //                                order by Q desc ";
-            //        command.Parameters.Add("@fromDate", System.Data.SqlDbType.DateTime).Value = startDate;
-            //        command.Parameters.Add("@toDate", System.Data.SqlDbType.DateTime).Value = endDate;
-            //        reader = command.ExecuteReader();
-            //        while (reader.Read())
-            //        {
-            //            TopProductsList.Add(
-            //                new KeyValuePair<string, int>(reader[0].ToString(), (int)reader[1]));
-            //        }
-            //        reader.Close();
+            TopitemList = new List<KeyValuePair<string, decimal>>();
+            LowtypeList = new List<KeyValuePair<string, decimal>>();
+            using (var connection = GetConnection())
+            {
+                connection.Open();
+                using (var command = new SqlCommand())
+                {
+                    SqlDataReader reader;
+                    command.Connection = connection;
+                    //Get Top 5 Item
+                    command.CommandText = @"  select top 5 Item_name,Sum (quntity) from Item_Tbl inner Join proceser_Tbl p
+                                            	on Item_id =id_item_FK
+                                            	where p.Date_Pros between @fromDate and @toDate
+                                            	group by Item_name
+                                            	order by Sum (quntity)desc
+                                            ";
+                    command.Parameters.Add("@fromDate", System.Data.SqlDbType.DateTime).Value = startDate;
+                    command.Parameters.Add("@toDate", System.Data.SqlDbType.DateTime).Value = endDate;
+                    reader = command.ExecuteReader();
+                    while (reader.Read())
+                    {
+                        TopitemList.Add(
+                            new KeyValuePair<string, decimal>(reader[0].ToString(), (decimal)reader[1]));
+                    }
+                    reader.Close();
 
-            //        //Get Understock
-            //        command.CommandText = @"select ProductName, Stock
-            //                                from Product
-            //                                where Stock <= 6 and IsDiscontinued = 0";
-            //        reader = command.ExecuteReader();
-            //        while (reader.Read())
-            //        {
-            //            UnderstockList.Add(
-            //                new KeyValuePair<string, int>(reader[0].ToString(), (int)reader[1]));
-            //        }
-            //        reader.Close();
-            //    }
-            //}
-        }
+                    //Lowest type of zakat income
+                    command.CommandText = @"select top 5 Type_name ,Sum (quntity)from Type_zakah_Tbl t
+		                                           inner join Item_Tbl i
+		                                           	on i.Item_id=t.Item_id_FK
+		                                           inner join proceser_Tbl p
+		                                           	on t.Type_name=p.Type_id_FK
+		                                           group  by Type_name
+		                                           order by Sum (quntity) asc";
+                    reader = command.ExecuteReader();
+                    while (reader.Read())
+                    {
+                        LowtypeList.Add(
+                            new KeyValuePair<string, decimal>(reader[0].ToString(), (decimal)reader[1]));
+                    }
+                    reader.Close();
+                }
+            }
+         }
         private void GetOrderAnalisys()
         {
             GrossRevenueList = new List<RevenueByDate>();
-            TotalProfit = 0;
-            TotalRevenue = 0;
+            Sum_Money = 0;
 
             using (var connection = GetConnection())
             {
@@ -136,9 +167,8 @@ namespace Zakate_project.models
                         resultTable.Add(
                             new KeyValuePair<DateTime, decimal>((DateTime)reader[0], (decimal)reader[1])
                             );
-                        TotalRevenue += (decimal)reader[1];
+                        Sum_Money+= (decimal)reader[1];
                     }
-                    TotalProfit = TotalRevenue * 0.2m;//20%
                     reader.Close();
 
                     //Group by Hours

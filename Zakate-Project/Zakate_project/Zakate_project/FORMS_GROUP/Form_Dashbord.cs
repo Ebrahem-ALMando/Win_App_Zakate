@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,121 +8,205 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Zakate_project.models;
+using Guna.UI2.WinForms;
+using Zakate_project.FORMS_GROUP;
 
 namespace Zakate_project.FORMS_GROUP
 {
     public partial class Form_Dashbord : Form
     {
-        private Reports.dashBord_Reports model = new Reports.dashBord_Reports();
+        //Fields
+        private Dashboard model;
+        private Button currentButton;
 
+
+        //Constructor
         public Form_Dashbord()
         {
             InitializeComponent();
-          
-
-            dtpEndDate.Value = DateTime.Today.AddDays(-7);
-            dtpStartDate.Value = DateTime.Now;
+            this.Text = string.Empty;
+  
+            this.MaximizedBounds = Screen.FromHandle(this.Handle).WorkingArea;
+       
+            //Default - Last 7 days
+            dtpStartDate.Value = DateTime.Today.AddDays(-7);
+            dtpEndDate.Value = DateTime.Now;
             btnLast7Days.Select();
+            SetDateMenuButtonsUI(btnLast7Days);
+            model = new Dashboard();
             LoadData();
-           
-
-
         }
-        //Convert.ToDateTime(dtpStartDate.Value.ToString("yyyy-MM-dd"))
+
+        //Private methods
         private void LoadData()
         {
             var refreshData = model.LoadData(dtpStartDate.Value, dtpEndDate.Value);
-          
-
             if (refreshData == true)
             {
-                lblNummoz.Text = model.Num_mozke.ToString();
-                lblTotalmony.Text =model.sum_Monye.ToString()+ " \t$ ";
-                //double tipo_de_cambio = 17;//سعر التصريف الحالي 
-                //double Value_Money_Dol =(double) model.sum_Monye / tipo_de_cambio;
-                //double value_Round = Math.Round(Value_Money_Dol,2);
-                //lblTotalmonyDolr.Text = value_Round.ToString()+ "\tTRY";
-                lblTotalPro.Text = model.Num_Process.ToString();
+   
+                  /*Get Sum Money*/
+                lblSumMonye_indate.Text = "$" + model.Sum_Money.ToString();
+                lblSumMonye.Text = "$" + model.sum_Monye.ToString();
+                /*Get number processs*/
+                lblNumProcess_indate.Text = model.Num_Process_in_date.ToString();
+                lblNumProcess.Text = model.Num_Process.ToString();
+                /* Get Total Number of Donors*/
+                lblNumMoz.Text = model.Num_mozke.ToString();
+                lblNumMoz_indate.Text = model.Num_mozke_in_date.ToString();
+                /*Get Total Number of Type*/
+                lblNumType.Text = model.Num_Type.ToString();
+                /*Get Total Number of Item*/
                 lblNumItem.Text = model.Num_Item.ToString();
-                lblNumtype.Text = model.Num_Type.ToString();
-                //Num_Process_in_date
-                lb_lNum_Process_in_date.Text = model.Num_Process_in_date.ToString();
-                //Num_mozke_in_date
+                /*
+                =================>>Ebrahem AL Mando<<=================
+                =================>>Programmer<<=======================
+                =================>>7/9/2022<<=========================*/
 
-
-                lblNummozindata.Text = model.Num_mozke_in_date.ToString();
-
-
-               
-                chart1.DataSource = model.TotalProsgerList;
-                chart1.Series[0].XValueMember = "data";
-                chart1.Series[0].YValueMembers = "TotleAmount";
-                chart1.DataBind();
-                chart2.DataSource = model.TopItemList;
-                chart2.Series[0].XValueMember = "Key";
-                chart2.Series[0].YValueMembers = "Value";
-                chart2.DataBind();
-         /*       
-                dgvUnderstock.DataSource = model.TopItemList;
-                dgvUnderstock.Columns[0].HeaderText = "Item";
-                dgvUnderstock.Columns[1].HeaderText = "Units";*/
+                chartSumMoney.DataSource = model.GrossRevenueList;
+                chartSumMoney.Series[0].XValueMember = "Date";
+                chartSumMoney.Series[0].YValueMembers = "TotalAmount";
+                chartSumMoney.DataBind();
+                chartItem.DataSource = model.TopitemList;
+                chartItem.Series[0].XValueMember = "Key";
+                chartItem.Series[0].YValueMembers = "Value";
+                chartItem.DataBind();
+                dgvUnderstock.DataSource = model.LowtypeList;
+                dgvUnderstock.Columns[0].HeaderText = "اسم النوع";
+                dgvUnderstock.Columns[1].HeaderText = "الكمية";
                 Console.WriteLine("Loaded view :)");
             }
             else Console.WriteLine("View not loaded, same query");
         }
-
-        private void Dashbord_Load(object sender, EventArgs e)
+        private void SetDateMenuButtonsUI(object button)
         {
-            LoadData();
+            var btn = (Button)button;
+            /* heighlight Bouttn*/
+            btn.BackColor = btnLast30Days.FlatAppearance.BorderColor;
+            btn.ForeColor = Color.White;
+            if (currentButton != null && currentButton != btn) 
+            {
+                currentButton.BackColor = this.BackColor;
+                currentButton.ForeColor = Color.FromArgb(124, 141, 181);
+            }
+            currentButton = btn;//Set currentButton 
+            //Enable custem dates
+            if (btn == btnCustomDate)
+            {
+                dtpStartDate.Enabled = true;
+                dtpEndDate.Enabled = true;
+                btnOkCustomDate.Visible = true;
+                LblStardate.Cursor = Cursors.Hand;
+                LblEnddate.Cursor = Cursors.Hand;
+
+            }
+            //Enable custem dates
+            else
+            {
+                dtpStartDate.Enabled = false;
+                dtpEndDate.Enabled = false;
+                btnOkCustomDate.Visible = false;
+                LblStardate.Cursor = Cursors.Default;
+                LblEnddate.Cursor = Cursors.Default;
+            }
+ 
         }
 
-        private void btnOkCustomDate_Click(object sender, EventArgs e)
-        {
-
-            LoadData();
-        }
-
-        private void btnCustomDate_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dtpEndDate_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
-
+        //Event methods
         private void btnToday_Click(object sender, EventArgs e)
         {
-
+            dtpStartDate.Value = DateTime.Today;
+            dtpEndDate.Value = DateTime.Now;
+            LoadData();
+            SetDateMenuButtonsUI(sender);
         }
 
         private void btnLast7Days_Click(object sender, EventArgs e)
         {
-            btnLast7Days.BackColor = Color.Red;
-           
-           
+            dtpStartDate.Value = DateTime.Today.AddDays(-7);
+            dtpEndDate.Value = DateTime.Now;
+            LoadData();
+            SetDateMenuButtonsUI(sender);
         }
 
         private void btnLast30Days_Click(object sender, EventArgs e)
         {
-
+            dtpStartDate.Value = DateTime.Today.AddDays(-30);
+            dtpEndDate.Value = DateTime.Now;
+            LoadData();
+            SetDateMenuButtonsUI(sender);
         }
 
         private void btnThisMonth_Click(object sender, EventArgs e)
         {
-
+            dtpStartDate.Value = new DateTime(DateTime.Today.Year, DateTime.Today.Month, 1);
+            dtpEndDate.Value = DateTime.Now;
+            LoadData();
+            SetDateMenuButtonsUI(sender);
         }
 
-        private void btnLast7Days_MouseHover(object sender, EventArgs e)
+        private void btnCustomDate_Click(object sender, EventArgs e)
         {
-           btnLast7Days.BackColor= Color.Red;
+         
+            SetDateMenuButtonsUI(sender);
+        }
+
+        private void btnOkCustomDate_Click(object sender, EventArgs e)
+        {
+            LoadData();
+        }
+
+        private void LblStardate_Click(object sender, EventArgs e)
+        {
+            if (currentButton == btnCustomDate)
+            {
+                dtpStartDate.Select();
+                SendKeys.Send("%{DOWN}");
+            }
+        }
+
+        private void LblEnddate_Click(object sender, EventArgs e)
+        {
+            if (currentButton == btnCustomDate)
+            {
+                dtpEndDate.Select();
+                SendKeys.Send("%{DOWN}");
+            }
+        }
+
+        private void dtpEndDate_ValueChanged(object sender, EventArgs e)
+        {
+            LblEnddate.Text = dtpEndDate.Text;
         }
 
         private void dtpStartDate_ValueChanged(object sender, EventArgs e)
         {
-          
+            LblStardate.Text = dtpStartDate.Text;
+        }
+
+        private void Form_Dashbord_Load(object sender, EventArgs e)
+        {
+            LblEnddate.Text = dtpEndDate.Text;
+            LblStardate.Text = dtpStartDate.Text;
+            dgvUnderstock.Columns[1].Width=70;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            SetDateMenuButtonsUI(sender);
+            Guna2MessageDialog message = new Guna2MessageDialog();
+            message.Icon = MessageDialogIcon.Question;
+            message.Style = MessageDialogStyle.Light;
+            message.Buttons = MessageDialogButtons.YesNo;
+            DialogResult check = message.Show("هل تريد العودة الى الواجهة الرئيسية","الرئيسية");
+            if (check == DialogResult.Yes)
+            {
+                Form_Home home = new Form_Home();
+                this.Close();
+                home.ShowDialog();
+            }
+
+            
         }
     }
 }
-

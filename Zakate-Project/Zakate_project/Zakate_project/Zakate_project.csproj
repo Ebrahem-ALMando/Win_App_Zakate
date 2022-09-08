@@ -101,14 +101,7 @@
     <Compile Include="Classes\Clas_Add_Type.cs" />
     <Compile Include="Classes\Cls_Thime_Color.cs" />
     <Compile Include="Classes\conction\Cls_conctin.cs" />
-    <Compile Include="DB\Concition_Reports.cs" />
     <Compile Include="DB\DbConnection.cs" />
-    <Compile Include="FORMS_GROUP\Form2.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FORMS_GROUP\Form2.Designer.cs">
-      <DependentUpon>Form2.cs</DependentUpon>
-    </Compile>
     <Compile Include="FORMS_GROUP\Form_Dashbord.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -190,10 +183,6 @@
     <Compile Include="login\User_Name.cs" />
     <Compile Include="models\Dashboard.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Reports\dashBord_Reports.cs" />
-    <EmbeddedResource Include="FORMS_GROUP\Form2.resx">
-      <DependentUpon>Form2.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="FORMS_GROUP\Form_Dashbord.resx">
       <DependentUpon>Form_Dashbord.cs</DependentUpon>
     </EmbeddedResource>
